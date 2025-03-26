@@ -48,7 +48,7 @@ The image classification system uses deep learning techniques to classify images
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ShadowFox.git
+git clone https://github.com/KiranDhanvate/ShadowFox.git
 cd ShadowFox
 ```
 
@@ -83,7 +83,7 @@ python src/image_classifier.py
 
 ## Author
 
-[Your Name]
+[Kiran Dhanvate](https://github.com/KiranDhanvate)
 
 ## License
 
